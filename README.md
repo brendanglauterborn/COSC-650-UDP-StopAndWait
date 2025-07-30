@@ -60,3 +60,7 @@ Refer to the `justfile`
 - `just server`: Compiles the server in the `bin` dir
 - `just client`: Compiles the client in the `bin` dir
 - `just clean`: Cleans up the `bin` dir
+
+## Contributors
+Brendan Lauterborn
+Luis Gascon
