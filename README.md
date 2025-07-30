@@ -62,5 +62,5 @@ Refer to the `justfile`
 - `just clean`: Cleans up the `bin` dir
 
 ## Contributors
-Brendan Lauterborn
-Luis Gascon
+- Brendan Lauterborn
+- Luis Gascon
